@@ -21,8 +21,6 @@ Use the `$npm install` command in the directory you have cloned the project to
 Use the `$npm start` command to run the Authors application
 
 Authors
-https://github.com/henriquelauar
-https://github.com/henriqbh
-https://github.com/arielpedroso95
+https://github.com/henriquelauar || https://github.com/henriqbh || https://github.com/arielpedroso95
 
 
